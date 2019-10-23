@@ -5,6 +5,7 @@ This project contain python code to query coordinates from adresses via Google m
 ## Coordinates query
 
 ![Excel source file](./img/excel.png)
+This script add Latitude and Longitude to the xls file and generate resellers.js for leaftlet map.
 
 ### Requirements
 
@@ -39,7 +40,12 @@ Leaflet marker clusturing is a submodule from https://github.com/Leaflet/Leaflet
 
 #### Requirements
 
-Install jake `npm install -g jake` then run `npm install`
+Inside Leaflet.markercluster
+```
+npm install -g jake
+cd  Leaflet.markercluster
+npm install
+```
 
 #### Demo
 
