@@ -29,4 +29,14 @@ python getLatLongNomatim.py
 
 ## leaflet maps
 
-Comming soon...
+### Marker-clustering
+
+Leaflet marker clusturing is a submodule from https://github.com/Leaflet/Leaflet.markercluster
+
+#### Requirements
+
+Install jake `npm install -g jake` then run `npm install`
+
+#### Demo
+
+Open marker-clustering-resellers.html in your browser
