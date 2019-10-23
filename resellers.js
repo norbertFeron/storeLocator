@@ -1,0 +1,1 @@
+var addressPoints = [[48.872272, 2.3333437, "Apple Store Opéra 12 Rue Halévy, Paris"],[45.7408777, 4.8189547, "Apple Store Confluence 112 Cours Charlemagne, Lyon"],[44.8419587, -0.5743505999999999, "Apple Store Sainte-Catherine 2-4 Rue Sainte-Catherine, Bordeaux"],[43.52571690000001, 5.4455602, "Apple Aix-En-Provence 2 Place du Général de Gaulle, Aix-en-Provence"]];
