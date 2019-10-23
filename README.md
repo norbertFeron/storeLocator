@@ -4,6 +4,8 @@ This project contain python code to query coordinates from adresses via Google m
 
 ## Coordinates query
 
+![Excel source file](./img/excel.png)
+
 ### Requirements
 
 ```
@@ -28,6 +30,8 @@ python getLatLongNomatim.py
 ```
 
 ## leaflet maps
+
+![Resulting map](./img/map.png)
 
 ### Marker-clustering
 
