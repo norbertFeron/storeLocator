@@ -4,6 +4,8 @@ This project contain python code to query coordinates from adresses via Google m
 
 ## Coordinates query
 
+This script add Latitude and Longitude to the xls file and generate resellers.js for leaftlet map.
+
 ### Requirements
 
 ```
